@@ -1,1 +1,1 @@
-<b>some bold text</b>
+<center><b>some bold text</b></center>
